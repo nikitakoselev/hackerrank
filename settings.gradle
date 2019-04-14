@@ -1,0 +1,3 @@
+rootProject.name = 'hackerrank-java'
+include '30-days-of-code'
+
