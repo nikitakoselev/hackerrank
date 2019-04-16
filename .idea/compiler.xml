@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="hackerrank-java.30-days-of-code.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.test" target="1.8" />
       <module name="hackerrank-java.main" target="1.8" />
       <module name="hackerrank-java.test" target="1.8" />
     </bytecodeTargetLevel>

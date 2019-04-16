@@ -1,3 +1,4 @@
 rootProject.name = 'hackerrank-java'
-include '30-days-of-code'
+include '30-days-of-code:biggest-difference'
+include '30-days-of-code:linked-list'
 
