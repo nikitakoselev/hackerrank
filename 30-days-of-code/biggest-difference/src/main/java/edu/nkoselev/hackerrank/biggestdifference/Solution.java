@@ -1,4 +1,4 @@
-package edu.nkoselev.hackerrank;
+package edu.nkoselev.hackerrank.biggestdifference;
 
 import java.util.Scanner;
 

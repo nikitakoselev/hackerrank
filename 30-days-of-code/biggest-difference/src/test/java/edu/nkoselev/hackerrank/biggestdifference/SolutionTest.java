@@ -1,4 +1,4 @@
-package edu.nkoselev.hackerrank;
+package edu.nkoselev.hackerrank.biggestdifference;
 
 import org.junit.Test;
 
