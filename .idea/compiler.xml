@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="hackerrank-java.30-d.main" target="1.8" />
+      <module name="hackerrank-java.30-d.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-generci.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-generci.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-generics.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-generics.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-sorting.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-sorting.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.23-binary-search-trees.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.23-binary-search-trees.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.biggest-difference.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.biggest-difference.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.linked-list.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.linked-list.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

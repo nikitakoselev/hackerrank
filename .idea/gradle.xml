@@ -11,8 +11,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/30-days-of-code" />
-            <option value="$PROJECT_DIR$/30-days-of-code/biggest-difference" />
-            <option value="$PROJECT_DIR$/30-days-of-code/linked-list" />
+            <option value="$PROJECT_DIR$/30-days-of-code/16-biggest-difference" />
+            <option value="$PROJECT_DIR$/30-days-of-code/17-linked-list" />
+            <option value="$PROJECT_DIR$/30-days-of-code/18-queues-and-stacks" />
+            <option value="$PROJECT_DIR$/30-days-of-code/19-interfaces" />
+            <option value="$PROJECT_DIR$/30-days-of-code/20-sorting" />
+            <option value="$PROJECT_DIR$/30-days-of-code/21-bst" />
+            <option value="$PROJECT_DIR$/30-days-of-code/22-binary-search-trees" />
+            <option value="$PROJECT_DIR$/30-days-of-code/23-bst-level-order-traversal" />
           </set>
         </option>
         <option name="testRunner" value="GRADLE" />

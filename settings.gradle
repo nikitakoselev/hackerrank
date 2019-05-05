@@ -1,4 +1,9 @@
 rootProject.name = 'hackerrank-java'
-include '30-days-of-code:biggest-difference'
-include '30-days-of-code:linked-list'
-
+include '30-days-of-code:16-biggest-difference'
+include '30-days-of-code:17-linked-list'
+include '30-days-of-code:18-queues-and-stacks'
+include '30-days-of-code:19-interfaces'
+include '30-days-of-code:20-sorting'
+include '30-days-of-code:21-bst'
+include '30-days-of-code:22-binary-search-trees'
+include '30-days-of-code:23-bst-level-order-traversal'
