@@ -19,6 +19,8 @@
             <option value="$PROJECT_DIR$/30-days-of-code/21-bst" />
             <option value="$PROJECT_DIR$/30-days-of-code/22-binary-search-trees" />
             <option value="$PROJECT_DIR$/30-days-of-code/23-bst-level-order-traversal" />
+            <option value="$PROJECT_DIR$/30-days-of-code/24-more-linked-lists" />
+            <option value="$PROJECT_DIR$/30-days-of-code/25-running-time-and-complexity" />
           </set>
         </option>
         <option name="testRunner" value="GRADLE" />
