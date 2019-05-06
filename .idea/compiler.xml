@@ -12,6 +12,8 @@
       <module name="hackerrank-java.30-days-of-code.21-sorting.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.23-binary-search-trees.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.23-binary-search-trees.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.26-.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.26-.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.biggest-difference.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.biggest-difference.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.linked-list.main" target="1.8" />

@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/30-days-of-code/23-bst-level-order-traversal" />
             <option value="$PROJECT_DIR$/30-days-of-code/24-more-linked-lists" />
             <option value="$PROJECT_DIR$/30-days-of-code/25-running-time-and-complexity" />
+            <option value="$PROJECT_DIR$/30-days-of-code/26-nested-logic" />
           </set>
         </option>
         <option name="testRunner" value="GRADLE" />
