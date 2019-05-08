@@ -10,3 +10,7 @@ include '30-days-of-code:23-bst-level-order-traversal'
 include '30-days-of-code:24-more-linked-lists'
 include '30-days-of-code:25-running-time-and-complexity'
 include '30-days-of-code:26-nested-logic'
+include '30-days-of-code:27-testing'
+include '30-days-of-code:28-regex'
+include '30-days-of-code:29-bitwise-and'
+

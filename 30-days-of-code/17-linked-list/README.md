@@ -1,1 +1,1 @@
-Solution for https://www.hackerrank.com/challenges/30-linked-list/problem
+edu.nkoselev.hackerrank.thirtydays.day27.Solution for https://www.hackerrank.com/challenges/30-linked-list/problem

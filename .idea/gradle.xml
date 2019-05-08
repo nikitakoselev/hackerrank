@@ -22,6 +22,9 @@
             <option value="$PROJECT_DIR$/30-days-of-code/24-more-linked-lists" />
             <option value="$PROJECT_DIR$/30-days-of-code/25-running-time-and-complexity" />
             <option value="$PROJECT_DIR$/30-days-of-code/26-nested-logic" />
+            <option value="$PROJECT_DIR$/30-days-of-code/27-testing" />
+            <option value="$PROJECT_DIR$/30-days-of-code/28-regex" />
+            <option value="$PROJECT_DIR$/30-days-of-code/29-bitwise-and" />
           </set>
         </option>
         <option name="testRunner" value="GRADLE" />
