@@ -25,6 +25,8 @@
             <option value="$PROJECT_DIR$/30-days-of-code/27-testing" />
             <option value="$PROJECT_DIR$/30-days-of-code/28-regex" />
             <option value="$PROJECT_DIR$/30-days-of-code/29-bitwise-and" />
+            <option value="$PROJECT_DIR$/warm-up" />
+            <option value="$PROJECT_DIR$/warm-up/socks" />
           </set>
         </option>
         <option name="testRunner" value="GRADLE" />

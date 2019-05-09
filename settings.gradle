@@ -13,4 +13,6 @@ include '30-days-of-code:26-nested-logic'
 include '30-days-of-code:27-testing'
 include '30-days-of-code:28-regex'
 include '30-days-of-code:29-bitwise-and'
+include 'warm-up:socks'
+
 

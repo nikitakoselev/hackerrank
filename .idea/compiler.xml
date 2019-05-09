@@ -4,26 +4,62 @@
     <bytecodeTargetLevel>
       <module name="hackerrank-java.30-d.main" target="1.8" />
       <module name="hackerrank-java.30-d.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.16-biggest-difference.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.16-biggest-difference.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.17-linked-list.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.17-linked-list.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.18-queues-and-stacks.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.18-queues-and-stacks.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.19-interfaces.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.19-interfaces.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.20-sorting.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.20-sorting.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-bst.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.21-bst.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.21-generci.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.21-generci.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.21-generics.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.21-generics.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.21-sorting.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.21-sorting.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.22-binary-search-trees.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.22-binary-search-trees.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.23-binary-search-trees.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.23-binary-search-trees.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.23-bst-level-order-traversal.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.23-bst-level-order-traversal.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.24-more-linked-lists.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.24-more-linked-lists.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.25-running-time-and-complexity.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.25-running-time-and-complexity.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.26-.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.26-.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.26-nested-logic.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.26-nested-logic.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.27-testing.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.27-testing.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.28-.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.28-.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.28-regex.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.28-regex.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.29-.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.29-.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.29-bitwise-and.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.29-bitwise-and.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.37-testing.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.37-testing.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.biggest-difference.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.biggest-difference.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.linked-list.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.linked-list.test" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.main" target="1.8" />
+      <module name="hackerrank-java.30-days-of-code.test" target="1.8" />
+      <module name="hackerrank-java.main" target="1.8" />
+      <module name="hackerrank-java.test" target="1.8" />
+      <module name="hackerrank-java.warm-up.main" target="1.8" />
+      <module name="hackerrank-java.warm-up.socks.main" target="1.8" />
+      <module name="hackerrank-java.warm-up.socks.test" target="1.8" />
+      <module name="hackerrank-java.warm-up.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

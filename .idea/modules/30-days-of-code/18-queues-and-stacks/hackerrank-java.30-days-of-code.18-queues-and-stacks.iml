@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":30-days-of-code:18-queues-and-stacks" external.linked.project.path="$MODULE_DIR$/../../../../30-days-of-code/18-queues-and-stacks" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="hackerrank-java.30-days-of-code" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../30-days-of-code/18-queues-and-stacks">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../30-days-of-code/18-queues-and-stacks/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../30-days-of-code/18-queues-and-stacks/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
