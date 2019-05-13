@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SolutionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-13T06:42:35" hostname="nikita-ThinkPad-X230" time="0.008">
+  <properties/>
+  <testcase name="simpleTest" classname="SolutionTest" time="0.008"/>
+  <testcase name="bigTest" classname="SolutionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

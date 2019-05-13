@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.valleys.SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-13T06:21:22" hostname="nikita-ThinkPad-X230" time="0.006">
+  <properties/>
+  <testcase name="simpleTests" classname="edu.valleys.SolutionTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

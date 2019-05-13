@@ -54,6 +54,20 @@
       <module name="hackerrank-java.30-days-of-code.linked-list.test" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.main" target="1.8" />
       <module name="hackerrank-java.30-days-of-code.test" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.arrays.hourglass.main" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.arrays.hourglass.test" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.arrays.main" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.arrays.test" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.main" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.test" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.main" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.repeated-string.main" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.repeated-string.test" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.socks.main" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.socks.test" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.test" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.valleys.main" target="1.8" />
+      <module name="hackerrank-java.interview-preparation.warm-up.valleys.test" target="1.8" />
       <module name="hackerrank-java.main" target="1.8" />
       <module name="hackerrank-java.test" target="1.8" />
       <module name="hackerrank-java.warm-up.main" target="1.8" />
