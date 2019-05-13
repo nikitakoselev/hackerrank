@@ -26,7 +26,9 @@
             <option value="$PROJECT_DIR$/30-days-of-code/28-regex" />
             <option value="$PROJECT_DIR$/30-days-of-code/29-bitwise-and" />
             <option value="$PROJECT_DIR$/warm-up" />
+            <option value="$PROJECT_DIR$/warm-up/repeated-string" />
             <option value="$PROJECT_DIR$/warm-up/socks" />
+            <option value="$PROJECT_DIR$/warm-up/valleys" />
           </set>
         </option>
         <option name="testRunner" value="GRADLE" />

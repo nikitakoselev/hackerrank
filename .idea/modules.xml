@@ -53,10 +53,16 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hackerrank-java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hackerrank-java.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/hackerrank-java.warm-up.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/hackerrank-java.warm-up.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/hackerrank-java.warm-up.main.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/hackerrank-java.warm-up.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/repeated-string/hackerrank-java.warm-up.repeated-string.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/repeated-string/hackerrank-java.warm-up.repeated-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/repeated-string/hackerrank-java.warm-up.repeated-string.main.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/repeated-string/hackerrank-java.warm-up.repeated-string.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/repeated-string/hackerrank-java.warm-up.repeated-string.test.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/repeated-string/hackerrank-java.warm-up.repeated-string.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/socks/hackerrank-java.warm-up.socks.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/socks/hackerrank-java.warm-up.socks.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/socks/hackerrank-java.warm-up.socks.main.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/socks/hackerrank-java.warm-up.socks.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/socks/hackerrank-java.warm-up.socks.test.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/socks/hackerrank-java.warm-up.socks.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/hackerrank-java.warm-up.test.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/hackerrank-java.warm-up.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/valleys/hackerrank-java.warm-up.valleys.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/valleys/hackerrank-java.warm-up.valleys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/valleys/hackerrank-java.warm-up.valleys.main.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/valleys/hackerrank-java.warm-up.valleys.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/warm-up/valleys/hackerrank-java.warm-up.valleys.test.iml" filepath="$PROJECT_DIR$/.idea/modules/warm-up/valleys/hackerrank-java.warm-up.valleys.test.iml" />
     </modules>
   </component>
 </project>
